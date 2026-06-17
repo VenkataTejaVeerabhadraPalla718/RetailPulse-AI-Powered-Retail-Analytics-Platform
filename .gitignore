@@ -10,9 +10,9 @@ venv/
 .env
 
 # Large files
-*.pdf
+
 *.pptx
-*.docx
+
 
 # Outputs
 Outputs/
