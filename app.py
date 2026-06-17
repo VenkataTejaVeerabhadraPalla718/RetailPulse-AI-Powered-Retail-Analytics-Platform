@@ -9,15 +9,15 @@ st.markdown("<h1 style='text-align:center;color:#00BFFF;'>📊 RetailPulse</h1>"
 st.markdown("<h3 style='text-align:center;color:#FFA500;'>AI-Powered Retail Analytics Platform</h3>", unsafe_allow_html=True)
 st.markdown("---")
 
-summary = pd.read_csv("data/executive_summary.csv")
-monthly = pd.read_csv("data/monthly_sales.csv")
-country = pd.read_csv("data/country_dashboard.csv")
-segments = pd.read_csv("data/customer_segments.csv")
-inventory = pd.read_csv("data/inventory_optimization.csv")
-forecast = pd.read_csv("data/sales_forecast.csv")
-product = pd.read_csv("data/product_performance.csv")
-churn = pd.read_csv("data/customer_churn_data.csv")
-retail = pd.read_csv("data/cleaned_retail.csv")
+summary = pd.read_csv("Data/executive_summary.csv")
+monthly = pd.read_csv("Data/monthly_sales.csv")
+country = pd.read_csv("Data/country_dashboard.csv")
+segments = pd.read_csv("Data/customer_segments.csv")
+inventory = pd.read_csv("Data/inventory_optimization.csv")
+forecast = pd.read_csv("Data/sales_forecast.csv")
+product = pd.read_csv("Data/product_performance.csv")
+churn = pd.read_csv("Data/customer_churn_data.csv")
+retail = pd.read_csv("Data/cleaned_retail.csv")
 
 dashboard = st.sidebar.radio(
     "📌 Select Dashboard",
