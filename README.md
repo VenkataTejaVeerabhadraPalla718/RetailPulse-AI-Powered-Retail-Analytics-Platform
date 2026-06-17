@@ -91,12 +91,10 @@ RetailPulse/
 ```bash
 pip install -r requirements.txt
 
+## Live Demo
 
----
+https://retailpulse-ai-powered-retail-analytics-platform.streamlit.app
 
-# 2. LICENSE
+## GitHub Repository
 
-Create file:
-
-```text
-LICENSE
+https://github.com/your-repository
