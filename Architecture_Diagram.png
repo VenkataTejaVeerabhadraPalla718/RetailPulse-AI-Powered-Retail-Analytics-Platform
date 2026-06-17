@@ -1,0 +1,23 @@
+Online Retail Dataset
+          │
+          ▼
+Data Cleaning & Preprocessing
+          │
+          ▼
+Feature Engineering
+          │
+ ┌────────┼─────────┬─────────┐
+ ▼        ▼         ▼         ▼
+RFM    Churn     Forecast   Inventory
+Seg.   Model      Model    Optimization
+ │        │         │         │
+ └────────┴─────────┴─────────┘
+               │
+               ▼
+      SHAP Explainability
+               │
+               ▼
+      Streamlit Dashboard
+               │
+               ▼
+      Business Insights
