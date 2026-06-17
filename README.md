@@ -92,9 +92,7 @@ RetailPulse/
 pip install -r requirements.txt
 
 ## Live Demo
-
 https://retailpulse-ai-powered-retail-analytics-platform.streamlit.app
 
 ## GitHub Repository
-
-[https://github.com/your-repository](https://github.com/VenkataTejaVeerabhadraPalla718/RetailPulse-AI-Powered-Retail-Analytics-Platform)
+ https://github.com/VenkataTejaVeerabhadraPalla718/RetailPulse-AI-Powered-Retail-Analytics-Platform
